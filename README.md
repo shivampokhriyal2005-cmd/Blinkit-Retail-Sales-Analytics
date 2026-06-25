@@ -75,7 +75,7 @@ This project presents an interactive **Power BI dashboard** developed to analyze
 
 ##  Dashboard Preview
 
-
+https://github.com/shivampokhriyal2005-cmd/Blinkit-Retail-Sales-Analytics/blob/main/Blinkit%20Sales%20Analytics.png
 
 ##  Connect With Me
 
